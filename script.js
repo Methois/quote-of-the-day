@@ -28,8 +28,8 @@ const quotes = [
 function getQuote() {
   const randomIndex = Math.floor(Math.random() * quotes.length);
   const { quote, author } = quotes[randomIndex];
-  quoteElement.innerHTML = quote;
-  authorElement.innerHTML = "- " + author;
+  quoteElement.innerHTML = "<b style='font-size:25px;'>”</b>" + quote + "<b style='font-size:25px;'>”</b>" ;
+  authorElement.innerHTML = "━ " + author;
 }
 
 getQuote();
