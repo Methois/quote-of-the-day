@@ -4,23 +4,23 @@ const buttonElement = document.querySelector("button");
 
 const quotes = [
   {
-    quote: "De grootste overwinning is de overwinning op jezelf.",
+    quote: "The greatest victory is the victory over yourself.",
     author: "Plato"
   },
   {
-    quote: "Het leven is een reis, geen bestemming.",
+    quote: "Life is a journey, not a destination.",
     author: "Ralph Waldo Emerson"
   },
   {
-    quote: "Je kunt niet altijd krijgen wat je wilt, maar als je het probeert soms zul je ontdekken dat je krijgt wat je nodig hebt.",
+    quote: "You can't always get what you want, but if you try sometimes you'll find that you get what you need.",
     author: "The Rolling Stones"
   },
   {
-    quote: "Niet alle schatten zijn zilver en goud.",
+    quote: "Not all treasures are silver and gold.",
     author: "Captain Jack Sparrow"
   },
   {
-    quote: "Als je doet wat je altijd hebt gedaan, zul je krijgen wat je altijd hebt gekregen.",
+    quote: "If you do what you've always done, you'll get what you've always got.",
     author: "Tony Robbins"
   }
 ];
