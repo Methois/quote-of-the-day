@@ -22,7 +22,7 @@ const quotes = [
   {
     quote: "If you do what you've always done, you'll get what you've always got.",
     author: "Tony Robbins"
-  }
+  },
 ];
 
 function getQuote() {
