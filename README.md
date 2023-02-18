@@ -16,6 +16,19 @@ Welcome to the quote of the day website. if something does not work or if someth
 
  **5.** Start the website by right clicking index.html and click `Open with live server`
 
+## Installation | Customization ( changed quotes colors etc )
+
+**colors:** go to `/css/style.css` and scroll up, there you will see :root, To change the colors just change the color codes in theire.
+**Quotes:** go to `/js/script.js` and you will see *const quotes*. You can add an extra quote by placing the following code below all other quotes: 
+```javascript
+  {
+    quote: "Your code",
+    author: "The author of the quote"
+  },
+```
+
+
 # SUPPORT
 
 If something doesn't work or you can't get out, you can always join the [discord server](https://discord.gg/PsEYghSGpm) and ask for support
+Or dm `Peppa#6843` on discord
