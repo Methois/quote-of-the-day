@@ -1,6 +1,6 @@
 # Quote Of the day
 
-https://cdn.discordapp.com/attachments/1010517250152865795/1076463363502133368/image.png
+![](https://cdn.discordapp.com/attachments/1010517250152865795/1076463363502133368/image.png)
 
 Welcome to the quote of the day website. if something does not work or if something does not work. Join the discord via the link below
 
