@@ -16,9 +16,9 @@ Welcome to the quote of the day website. if something does not work or if someth
 
  **3.** Open the folder in visual studio code by clicking `file` and then `Open Folder`
 
- **4** Download the liveserver extension by clicking the extensions icon on the left
+ **4** Download the `liveserver` extension by clicking the `extensions` icon on the left
 
- **5.** Start the website by right clicking index.html and click `Open with live server`
+ **5.** Start the website by right clicking `index.html` and click `Open with live server`
 
 ## Installation | Customization ( changed quotes colors etc )
 
